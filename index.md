@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-# Haiping Huang
+# Greetings!
 
 PhD candidate in the Department of Hearing and Speech Sciences at Vanderbilt University Medical Center.
 
