@@ -1,19 +1,18 @@
 ---
-title: Home
+title: Home Page
 ---
 
-# HH (Your Name)
+# Haiping Huang
 
-PhD student in Audiology at Vanderbilt.
+PhD candidate in the Department of Hearing and Speech Sciences at Vanderbilt University Medical Center.
 
 ## Research
-- Listening effort, emotion perception, hearing loss
-- fNIRS + behavioral experiments
+- Broadly, my research interests encompass hearing aid, listening effort, and emotion perception
 
 ## Links
 - [CV](assets/CV.pdf)
-- Google Scholar: (add link)
-- ORCID: (add link)
+- Google Scholar: (https://scholar.google.com/citations?user=CExuWfUAAAAJ&hl=en&authuser=2&oi=ao)
+- LinkedIn: (https://www.linkedin.com/in/haiping-huang-vandy/)
 
 ## Contact
-Email: (add)
+Email: (haiping.huang@vanderbilt.edu)
